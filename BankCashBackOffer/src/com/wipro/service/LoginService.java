@@ -8,11 +8,13 @@ public class LoginService {
 
 	LoginDao loginDao;
 	
-	public  boolean customervalidation(String customerid,String password)
+	public  CommonForm customervalidation(CommonForm commonForm,String customerid,String password)
 	{
 		System.out.println("Inside login service 1");
-		return loginDao.validateExistCustomer(customerid, password);
+		return loginDao.validateExistCustomer(commonForm,customerid, password);
 	}
+	
+	
 	
 	public int fetchBalance(CommonForm commonform,String customerid)
 	{

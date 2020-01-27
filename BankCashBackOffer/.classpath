@@ -124,12 +124,5 @@
 	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/xmlschema-core-2.0.3.jar"/>
 	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/xmlworker-1.1.3.jar"/>
 	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/zip4j_1.3.1.jar"/>
-	<classpathentry kind="lib" path="E:/Spring_ELearning/jspcrudapp/jar_files/ojdbc8-19.3.0.0.jar"/>
-	<classpathentry kind="lib" path="E:/Spring_ELearning/jspcrudapp/jar_files/ons-19.3.0.0.jar"/>
-	<classpathentry kind="lib" path="E:/Spring_ELearning/jspcrudapp/jar_files/oraclepki-19.3.0.0.jar"/>
-	<classpathentry kind="lib" path="E:/Spring_ELearning/jspcrudapp/jar_files/osdt_cert-19.3.0.0.jar"/>
-	<classpathentry kind="lib" path="E:/Spring_ELearning/jspcrudapp/jar_files/osdt_core-19.3.0.0.jar"/>
-	<classpathentry kind="lib" path="E:/Spring_ELearning/jspcrudapp/jar_files/simplefan-19.3.0.0.jar"/>
-	<classpathentry kind="lib" path="E:/Spring_ELearning/jspcrudapp/jar_files/ucp-19.3.0.0.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>

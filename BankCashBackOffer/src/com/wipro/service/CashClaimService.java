@@ -1,15 +1,18 @@
 package com.wipro.service;
 
-
-import com.wipro.dao.CashClaimDao;
+import com.wipro.daoImpl.CashClaimDaoImpl;
 import com.wipro.form.CommonForm;
 
-public class CashClaimService 
-{
-	CashClaimDao cashClaimDao;
+public class CashClaimService {
+	
+	
+	CashClaimDaoImpl cashClaimDao;
 	CommonForm commonform;
 	
-	public int validateOffer(CommonForm commonform,String couponcode) {
-		return cashClaimDao.cashOffer(commonform.getBalance(),couponcode);
+	public CommonForm getOfferPercentage(String couponcode)
+	{
+		return cashClaimDao.offerPercentage(commonform, couponcode);
 	}
+	
+
 }

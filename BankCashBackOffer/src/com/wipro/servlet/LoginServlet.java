@@ -24,8 +24,7 @@ public class LoginServlet extends HttpServlet {
 	
 	CommonForm commonform=new CommonForm();
 	LoginService loginService=new LoginService();
-	LoginDaoImpl logindaoimpl = new LoginDaoImpl();
-	
+	LoginDaoImpl impl=new LoginDaoImpl();
 	
 	public void service(HttpServletRequest req, HttpServletResponse res) throws IOException, ServletException
 	{
@@ -34,25 +33,26 @@ public class LoginServlet extends HttpServlet {
 		System.out.println(customerid);
 		System.out.println(password);
 		
+		commonform.setCustomerid("customerid");
+		commonform.setCustomerid("password");
+				
 		
-		commonform.setCustomerid(req.getParameter("customerid"));
-		commonform.setCustomerid(req.getParameter("password"));
-		commonform.setBalance(20000);
-		
-		
-		if(loginService.customervalidation(customerid, password)	) 
+		commonform = impl.validateExistCustomer(commonform,customerid, password);
+		if(commonform.isFlag()==true) 
 		//if(customerid.equalsIgnoreCase("prathi") && password.equalsIgnoreCase("abiya"))
-		//if(logindaoimpl.validateExistCustomer(customerid, password)	) 
+		//if(loginService.customervalidation(customerid, password)	) 
 		  {
-			System.out.println("after password validation");
 			HttpSession session= req.getSession();
 			session.setAttribute("balance", commonform.getBalance());
+			session.setAttribute("custid", customerid);
 			res.sendRedirect("offerpage.jsp");
 		  }
 		  else
 		  {
-			  res.sendRedirect("index.jsp");
+			  res.sendRedirect("invalidlogin.jsp");
 		  }
+		
+		
 		
 	}
 

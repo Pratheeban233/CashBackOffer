@@ -11,8 +11,8 @@
 
 <form action="login" >
 
-	Customer ID:<input type="text" name="customerid"><br>
-	Password   :<input type="Password" name="password"><br>
+	Customer ID:<input type="text" name="customerid" required><br>
+	Password   :<input type="Password" name="password" required><br>
 				 <input type="submit" value="login">
 	</form>	
 	

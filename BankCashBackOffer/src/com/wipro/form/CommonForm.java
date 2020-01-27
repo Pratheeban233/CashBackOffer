@@ -7,8 +7,15 @@ public class CommonForm {
 	private String couponcode;
 	private float offerpercentage;
 	private int balance;
+	private boolean flag;
 	
 	
+	public boolean isFlag() {
+		return flag;
+	}
+	public void setFlag(boolean flag) {
+		this.flag = flag;
+	}
 	public String getCustomerid() {
 		return customerid;
 	}
