@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v8.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_231">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/activation-1.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/antlr-2.7.7.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/aopalliance-1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/apache-logging-log4j.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/asm-3.3.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/axis.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/bcmail-jdk15on-1.47.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/bcmail-jdk16-1.46.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/bcpg-jdk16-146.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/bcprov-jdk15on-1.47.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/bcprov-jdk16-1.46.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/bctsp-jdk16-1.46.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/bonecp-0.7.1.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/cglib-nodep-2.1_3.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/commons-beanutils-1.7.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/commons-codec-1.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/commons-collections-3.2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/commons-configuration-1.7.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/commons-dbcp-1.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/commons-digester-1.7.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/commons-fileupload.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/commons-io.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/commons-lang-2.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/commons-logging-1.1.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/commons-logging-api-1.1.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/commons-net-3.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/commons-pool-1.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/commons-validator-1.5.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/cryptix32.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/cxf-2.6.9.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/cxf-manifest.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/cxf-services-sts-core-2.6.9.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/cxf-xjc-boolean-2.6.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/cxf-xjc-bug671-2.6.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/cxf-xjc-dv-2.6.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/cxf-xjc-runtime-2.6.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/cxf-xjc-ts-2.6.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/displaytag-1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/dom4j-1.6.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/FastInfoset-1.2.12.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/freemarker-2.2.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/google-collections.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/hibernate-commons-annotations-4.0.1.Final.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/hibernate-core-4.0.1.Final.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/hibernate-ehcache-4.0.1.Final.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/hibernate-entitymanager-4.0.1.Final.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/hibernate-jpa-2.0-api-1.0.1.Final.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/httpclient-4.0-beta1.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/httpcore-4.0.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/itext-2.0.7.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/iText-2.1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/iText-2.1.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/itextpdf-5.2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/jandex-1.0.3.Final.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/jasperreports-3.5.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/javassist-3.15.0-GA.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/javax.jms-1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/javax.persistence-2.1.0-rc1.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/javax.transaction-3.1.2.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/jaxb-api-2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/jaxb-impl-2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/jaxb-xjc-2.2.5.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/jaxen-1.1-beta-7.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/jboss-as-web-7.1.1.Final-RECOMPILE.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/jboss-logging-3.1.0.CR2.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/jboss-servlet-api_3.0_spec-1.0.0.Final.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/jboss-transaction-api_1.1_spec-1.0.0.Final.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/json-20070829.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/json-taglib-0.4.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/jstl-1.1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/jxl.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/log4j-1.2.14.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/mail.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/neethi-3.0.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/org.springframework.web.struts-3.0.5.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/pgplib-2.6.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/poi-3.2-FINAL-20081019.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/quartz-2.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/slf4j.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/slf4j-log4j12-1.5.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/slf4j-simple-1.7.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/spring-aop-4.0.0.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/spring-aspects-4.0.0.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/spring-beans-4.0.0.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/spring-context-4.0.0.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/spring-context-support-4.0.0.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/spring-core-4.0.0.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/spring-expression-4.0.0.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/spring-jdbc-4.0.0.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/spring-orm-4.0.0.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/spring-oxm-4.0.0.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/spring-tx-4.0.0.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/spring-web-4.0.0.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/spring-webmvc-4.0.0.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/standard-1.1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/stax2-api-3.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/struts.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/syslog4j-0.9.46-bin.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/terracotta-toolkit-1.6-runtime-5.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/webserviceutils.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/woodstox-core-asl-4.2.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/wsdl4j.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/wsdl4j-1.6.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/xalan.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/xercesImpl.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/xercesImpl-2.6.2-jaxb-1.0.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/xmlbeans-2.5.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/xml-resolver-1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/xmlschema-core-2.0.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/xmlworker-1.1.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/spring_jars_from ofc/JARS(1)/JARS/zip4j_1.3.1.jar"/>
+	<classpathentry kind="lib" path="E:/Spring_ELearning/jspcrudapp/jar_files/ojdbc8-19.3.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/Spring_ELearning/jspcrudapp/jar_files/ons-19.3.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/Spring_ELearning/jspcrudapp/jar_files/oraclepki-19.3.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/Spring_ELearning/jspcrudapp/jar_files/osdt_cert-19.3.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/Spring_ELearning/jspcrudapp/jar_files/osdt_core-19.3.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/Spring_ELearning/jspcrudapp/jar_files/simplefan-19.3.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/Spring_ELearning/jspcrudapp/jar_files/ucp-19.3.0.0.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
